@@ -1,0 +1,6 @@
+{
+  "name": "Nexus — Enterprise Incident & Escalation Platform",
+  "description": "Enterprise Incident Management, Operational Tracking, Intelligent Escalations, and AI Knowledge Base Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
